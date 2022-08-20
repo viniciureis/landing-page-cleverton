@@ -1,0 +1,16 @@
+.body{ min-width: 310px;
+max-width: 1000px;
+padding: 10px; background-color: rgba(0, 4, 255, 0.631);
+}
+.main{min-width: 310px;
+  max-width: 1000px; }
+  
+  .header{min-width: 310px;
+  max-width: 2000px;}
+  .p{font-size: 25px;
+  margin-left: 25px;
+color: rgba(255, 251, 0, 0.67);
+margin-right: -15px;}
+.p{margin-top: -13px;
+padding-left: 20px;}
+.borda{border: 30px black;}  
