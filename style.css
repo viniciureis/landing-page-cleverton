@@ -1,16 +1,78 @@
-.body{ min-width: 310px;
-max-width: 1000px;
-padding: 10px; background-color: rgba(0, 4, 255, 0.631);
+p{padding-left: 390px;
+margin-top: 9px; 
+font-size: 50px;
+color: #ffff00d3;
+
+
 }
-.main{min-width: 310px;
-  max-width: 1000px; }
+
+h2{font-size: 20px;
+margin-left: 390px;
+margin-top: -50px;
+
+}
+.branco{color: antiquewhite;
+padding-left: 309px;margin-top: -39px;}
+.fundo{
+  background-image: url(Imagens/Imagem\ 1.png);
+
+ 
+background-position:center  center;
+background-repeat: repeat;
+margin-left: -20px;
+height: 500px;
+background-size: cover;
+background-attachment: fixed;
+
+
+
+}
+.preto{font-size: 20px;
+margin-top:-19px;padding-left: 155px;
+}
+.button-default{
+margin-left: 505px;
+font-size: 20px;
+
+height: 80px;
+width: 380px;
+background-color: yellow;
+
+border-radius: 40px;
+border-color: yellow;
+
+
+min-width: 320px;
+margin-top: 200px
+;}
+.video{padding-left: 400px;}
+.box{
+  box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.578);
+  background-color: #333333;
+  margin-left: 350px;
+margin-top: -40px;
+border-radius: 30px;
+  width: 690px;
+  padding:10px 10px 10px;
+}
+.interno{padding-left: 130px;}
+.interno1{padding-left: 45px;margin-top: -80px;}
+.interno2{padding-left: 274px;padding-top: 13px;}
+.interno3{padding-left: 492px;padding-top: 13px;}
+.interno4{padding-left: 150px;}
+.fundo1{background-image: url(Imagens/Papel\ Rasgado.png);
   
-  .header{min-width: 310px;
-  max-width: 2000px;}
-  .p{font-size: 25px;
-  margin-left: 25px;
-color: rgba(255, 251, 0, 0.67);
-margin-right: -15px;}
-.p{margin-top: -13px;
-padding-left: 20px;}
-.borda{border: 30px black;}  
+  background-position:top  bottom;
+  background-repeat: no-repeat;
+  margin-left: -20px;
+
+  height: 900px;
+
+}
+
+
+
+  
+ 
+
+
